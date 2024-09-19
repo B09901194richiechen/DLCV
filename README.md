@@ -1,2 +1,2 @@
 # DLCV
-DLCV at NTUEE on 113-fall.
+DLCV(Deep Learning in Computer Vision) at NTUEE on 113-fall.
